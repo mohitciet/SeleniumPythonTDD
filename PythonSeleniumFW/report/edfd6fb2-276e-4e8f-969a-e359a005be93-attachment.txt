@@ -1,0 +1,34 @@
+[32mINFO    [0m TestLogin:test_login.py:34 test_invalidLogin Test is started
+[31m[1mERROR   [0m SeleniumDriver:selenium_driver.py:41 Invalid Locator Type =link text
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:96 Waiting for maximum :: 10 :: seconds for element to be clickable
+[31m[1mERROR   [0m SeleniumDriver:selenium_driver.py:105 Element not appeared on the web page
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:50 Locator found Successfully with Locator Type=link text and locator=Login
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:51 ***************************************************
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:63 Clicked on Element with Locator Type=link and locator=Login
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:64 ***************************************************
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:96 Waiting for maximum :: 10 :: seconds for element to be clickable
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:103 Element appeared on the web page
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:50 Locator found Successfully with Locator Type=id and locator=user_email
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:51 ***************************************************
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:74 Entered Data on Element with Locator Type=id and locator=user_email
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:75 ***************************************************
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:96 Waiting for maximum :: 10 :: seconds for element to be clickable
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:103 Element appeared on the web page
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:50 Locator found Successfully with Locator Type=id and locator=user_password
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:51 ***************************************************
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:74 Entered Data on Element with Locator Type=id and locator=user_password
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:75 ***************************************************
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:96 Waiting for maximum :: 10 :: seconds for element to be clickable
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:103 Element appeared on the web page
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:50 Locator found Successfully with Locator Type=name and locator=commit
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:51 ***************************************************
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:63 Clicked on Element with Locator Type=name and locator=commit
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:64 ***************************************************
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:96 Waiting for maximum :: 10 :: seconds for element to be clickable
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:103 Element appeared on the web page
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:50 Locator found Successfully with Locator Type=xpath and locator=//div[contains(text(),'Invalid email or password')]
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:51 ***************************************************
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:115 Element is present on Page with Locator Type=xpath and locator=//div[contains(text(),'Invalid email or password')]
+[32mINFO    [0m SeleniumDriver:selenium_driver.py:116 ***************************************************
+[32mINFO    [0m TestStatus:teststatus.py:31 ### VERIFICATION PASSED :: + User Invalid Login
+[32mINFO    [0m TestStatus:teststatus.py:65 test_invalidLogin ### TEST PASSED

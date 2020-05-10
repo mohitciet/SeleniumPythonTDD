@@ -1,0 +1,19 @@
+###Dependecies to be installed
+import pytest,allure-pytest,selenium
+
+pip install
+
+
+### Run Tests from cmd
+py.test -s -v tests --browser chrome'
+
+
+###Allure Report Steps
+>install allure in your system
+>set Path in Env variables
+>py.test -s -v --alluredir="report" tests --browser chrome
+>allure serve D:\PythonSeleniumFW\report
+
+###Path of Files Need to be updated
+
+###Run Complete Suite Implementation Pending
